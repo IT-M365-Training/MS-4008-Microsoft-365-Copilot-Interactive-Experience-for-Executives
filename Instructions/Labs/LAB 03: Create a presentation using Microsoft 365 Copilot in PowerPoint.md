@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Exercise: Create a presentation using Microsoft 365 Copilot in PowerPoint'
-    module: 'Envision new ideas with Microsoft 365 Copilot'
----
-
 # Introduction
 
 Microsoft 365 Copilot in PowerPoint acts as your presentation assistant, transforming your concepts into impactful slides. With Copilot, you can seamlessly convert written documents into presentation decks, complete with speaker notes and references. Starting a new presentation is as easy as providing an outline or prompt and letting Copilot do the heavy lifting. Beyond creation, Copilot also includes tools to streamline lengthy presentations and offers intuitive commands to refine layouts, adjust text formatting, and synchronize animations.
@@ -26,7 +20,7 @@ To reference the file, use the shared link to Copilot Research.docx.
 
 1. Open the Copilot Research.docx document that you saved to your OneDrive account in the previous exercise. Copy its URL by selecting Share in the upper-right corner and choosing Copy Link from the drop-down menu.
 
-![Screenshot of Copy Link.](/Instructions/Labs/Media/ex2word.png)
+![Screenshot of Copy Link.](./media/ex2word.png)
 
 2. Launch Microsoft PowerPoint from your browser or use the desktop application.
 3. Open a new blank presentation.
