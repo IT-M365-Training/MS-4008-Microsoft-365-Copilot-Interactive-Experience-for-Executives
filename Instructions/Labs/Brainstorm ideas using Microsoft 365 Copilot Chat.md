@@ -39,12 +39,14 @@ In this exercise, you'll use Use Copilot Chat to spark creative thinking and gen
 Can you help me identify gaps in the [specific market or industry] that could be potential opportunities for a new product or company? I’m looking for underserved areas or emerging trends that could be capitalized on.
 ```
 >[!NOTE]
->Replace the text within brackets with your specific choice (e.g., replace [specific market or industry] with Artificial Intelligence industry).
+>Replace the text within brackets with your specific choice (e.g., replace [specific market or industry] >with Artificial Intelligence industry).
 >
+
 4. Copy the output from Copilot Chat to a new Word document and save the file to your OneDrive account with the name Copilot Research.docx. The next exercise uses this document.
 
-[!IMPORTANT]
-Be sure to save the file to OneDrive rather than your local PC. In the next exercise, you’ll use Copilot in Word to create a presentation based on this document, which must be saved in OneDrive for Copilot to access it.
+>[!IMPORTANT]
+>Be sure to save the file to OneDrive rather than your local PC. In the next exercise, you’ll use Copilot >in Word to create a presentation based on this document, which must be saved in OneDrive for Copilot to >access it.
+>
 
 ##Task 2: Conduct Market Research:
 
