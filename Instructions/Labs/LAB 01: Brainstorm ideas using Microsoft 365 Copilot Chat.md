@@ -44,7 +44,7 @@ Can you help me identify gaps in the [specific market or industry] that could be
 >Be sure to save the file to OneDrive rather than your local PC. In the next exercise, you’ll use Copilot >in Word to create a presentation based on this document, which must be saved in OneDrive for Copilot to >access it.
 >
 
-##Task 2: Conduct Market Research:
+## Task 2: Conduct Market Research:
 
 1. With your company or product idea in mind, use the following prompt to research competitors:
 
