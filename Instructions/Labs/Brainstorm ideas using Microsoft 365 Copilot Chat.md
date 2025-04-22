@@ -18,7 +18,7 @@ A toggle at the top of the Copilot user interface allows you to switch between w
 
 >[!TIP]
 >- In work mode, Copilot responses are grounded in work data available to you. Using the Microsoft Graph, Copilot can help you access organizational resources or content, such as documents in OneDrive, emails, or other data. This is where you can manage and complete tasks related to your work. You can draft emails, create documents, manage your calendar, and collaborate with colleagues directly from this mode.
-- In web mode, Copilot is grounded in data from the public web in the Bing search index.  This mode combines the power of generative AI with up-to-date information from the web. It’s useful for conducting research, finding resources, and staying updated with the latest news and trends.
+>- In web mode, Copilot is grounded in data from the public web in the Bing search index.  This mode combines the power of generative AI with up-to-date information from the web. It’s useful for conducting research, finding resources, and staying updated with the latest news and trends.
 >
 # Exercise
 
@@ -26,7 +26,7 @@ In this exercise, you'll use Use Copilot Chat to spark creative thinking and gen
 
 >[!NOTE]
 
->In the instructions below, we will provide a sample prompt for each step. While you have the option to copy and paste these prompts, we encourage you to personalize them in your own style. Be creative and experiment. If Copilot doesn't give you the desired output initially, refine your prompt and try again. Remember to enjoy the process!
+>In the instructions below, we will provide a sample prompt for each step. While you have the option to >copy and paste these prompts, we encourage you to personalize them in your own style. Be creative and >experiment. If Copilot doesn't give you the desired output initially, refine your prompt and try again. >Remember to enjoy the process!
 >
 ## Task 1: Brainstorm Ideas
 
