@@ -25,9 +25,11 @@ A toggle at the top of the Copilot user interface allows you to switch between w
 In this exercise, you'll use Use Copilot Chat to spark creative thinking and generate at least one innovative company or product idea—real or imagined—that addresses a current market need or gap. You’ll evaluate these ideas by identifying their potential benefits and possible challenges.
 
 >[!NOTE]
+>In the instructions below, we will provide a sample prompt for each step. While you have the option to copy and paste these prompts, we encourage you to personalize them in your own style.
+>If Copilot doesn't give you the desired output initially, refine your prompt.
+>Remember to enjoy the proces!
 
->In the instructions below, we will provide a sample prompt for each step. While you have the option to >copy and paste these prompts, we encourage you to personalize them in your own style. Be creative and >experiment. If Copilot doesn't give you the desired output initially, refine your prompt and try again. >Remember to enjoy the process!
->
+
 ## Task 1: Brainstorm Ideas
 
 1. Open your browser and navigate to [m365copilot.com](https://m365copilot.com).
