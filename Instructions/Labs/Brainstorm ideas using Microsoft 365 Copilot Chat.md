@@ -14,7 +14,7 @@ With AI-driven capabilities, Copilot Chat enhances productivity in ways you migh
 
 A toggle at the top of the Copilot user interface allows you to switch between work and web data. Both modes provide generative AI services, but they serve different purposes to help you be more productive. For this exercise, you’ll use web mode.
 
-![Screenshot of toggle view.](../Media/toggle.png)
+![Screenshot of toggle view.](/Labs/Media/toggle.png)
 
 [!TIP]
 - In work mode, Copilot responses are grounded in work data available to you. Using the Microsoft Graph, Copilot can help you access organizational resources or content, such as documents in OneDrive, emails, or other data. This is where you can manage and complete tasks related to your work. You can draft emails, create documents, manage your calendar, and collaborate with colleagues directly from this mode.
