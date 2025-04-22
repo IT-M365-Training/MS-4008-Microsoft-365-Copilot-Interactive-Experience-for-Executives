@@ -68,41 +68,6 @@ Experiment with these prompts to create engaging, polished presentations while l
 
 
 
-
-2. Launch Microsoft Word from your browser or use the desktop application.
-3. Open a new blank document.
-4. Select Draft with Copilot which is located above the body of the document:
-
-![Screenshot of Draft with Copilot.](/Instructions/Labs/Media/draftwithco.png)
-
-5. Enter the following prompt:
-
-```md
-Draft a concept for our new [company or product] referencing [link to Copilot Research.docx], including its mission, vision, core values, offerings, target audience, and unique market edge.```
-```
->[!NOTE]
-Replace the text within brackets with your specific choice.
->
-
-6. Select Generate. At this point, Copilot in Word extracts the information from your research document and drafts the proposal.
-7. Review the draft that Copilot creates. If everything looks good, you can move on to the next step.
-
-However, if you'd like to refine the document further, explore the information in the Iterate and Revise section below.
-
-8. Save the file to OneDrive as Product Concept.docx. You’ll use this document in the next exercise.
-
->[!IMPORTANT]
->Make sure to save the file to OneDrive instead of your local PC, as the next exercise in PowerPoint will require Copilot to access it.
->
-
-##Task 2: Iterate and Revise
-
-The iterative and revision process involves refining and improving upon an initial draft or concept through multiple rounds of feedback and adjustment. This approach helps to enhance the quality, clarity, and effectiveness of the final output by identifying areas for improvement and making targeted revisions.
-
-For example, you might start with an initial draft of a concept and prompt the following:
-
-```md
-Can you refine this concept by making it more persuasive for potential sponsors?
 ```
 After reviewing the updated version, you may further improve the document by focusing on specific sections, such as:
 ```md
