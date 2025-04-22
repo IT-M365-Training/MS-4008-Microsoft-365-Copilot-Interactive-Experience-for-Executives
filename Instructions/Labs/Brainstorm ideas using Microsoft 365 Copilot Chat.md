@@ -17,8 +17,8 @@ A toggle at the top of the Copilot user interface allows you to switch between w
 ![Screenshot of toggle view.](/Instructions/Labs/Media/toggle.png)
 
 >[!TIP]
->- In work mode, Copilot responses are grounded in work data available to you. Using the Microsoft Graph, Copilot can help you access organizational resources or content, such as documents in OneDrive, emails, or other data. This is where you can manage and complete tasks related to your work. You can draft emails, create documents, manage your calendar, and collaborate with colleagues directly from this mode.
->- In web mode, Copilot is grounded in data from the public web in the Bing search index.  This mode combines the power of generative AI with up-to-date information from the web. It’s useful for conducting research, finding resources, and staying updated with the latest news and trends.
+>- In work mode, Copilot responses are grounded in work data available to you. Using the Microsoft Graph, >Copilot can help you access organizational resources or content, such as documents in OneDrive, emails, >or other data. This is where you can manage and complete tasks related to your work. You can draft >emails, create documents, manage your calendar, and collaborate with colleagues directly from this mode.
+>- In web mode, Copilot is grounded in data from the public web in the Bing search index.  This mode >combines the power of generative AI with up-to-date information from the web. It’s useful for conducting >research, finding resources, and staying updated with the latest news and trends.
 >
 # Exercise
 
