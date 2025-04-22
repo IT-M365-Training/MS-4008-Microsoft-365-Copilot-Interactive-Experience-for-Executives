@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Exercise: Brainstorm ideas using Microsoft 365 Copilot Chat'
-    module: 'Envision new ideas with Microsoft 365 Copilot'
----
-
 # Introduction
 
 Microsoft 365 Copilot in Word transforms document creation and refinement, allowing you to produce compelling content with ease. Copilot assists with drafting from scratch, enhancing existing text, and distilling the essence of lengthy articles. With Copilot, you can start a document using brief prompts, seamlessly incorporate resources from across Microsoft 365, and adjust both tone and conciseness.
